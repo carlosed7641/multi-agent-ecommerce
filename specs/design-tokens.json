@@ -1,0 +1,39 @@
+{
+  "palette": {
+    "primary": "#5C4033",
+    "secondary": "#8A6E4B",
+    "accent": "#B0765C",
+    "background": "#EFE6DD",
+    "surface": "#FFFFFF",
+    "text": "#3A2A20",
+    "muted": "#8A7B6C"
+  },
+  "typography": {
+    "fontDisplay": "Fraunces",
+    "fontBody": "Work Sans",
+    "scale": {
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.5rem",
+      "2xl": "2.25rem"
+    }
+  },
+  "radius": "0.75rem",
+  "spacingUnit": "0.25rem",
+  "components": {
+    "Button": {
+      "variants": ["primary", "secondary", "outline"],
+      "notes": "primary: bg-primary text-background hover darken; secondary: bg-secondary text-background; outline: border-primary text-primary bg-transparent hover:bg-primary/10. Padding px-6 py-3, radius rounded-full for warm artisanal feel."
+    },
+    "ProductCard": {
+      "notes": "surface bg-surface rounded (radius), shadow-sm hover:shadow-md, image aspect-square rounded-t, category tag as small pill in accent color, price in fontDisplay semibold, description in muted text-sm."
+    },
+    "Nav": {
+      "notes": "bg-background/95 backdrop-blur border-b border-muted/20, logo in fontDisplay text-primary, links text-text hover:text-primary, sticky top-0."
+    },
+    "Footer": {
+      "notes": "bg-primary text-background, links text-background/80 hover:text-background, fontBody, padding py-12, columns for nav/contact/social."
+    }
+  }
+}

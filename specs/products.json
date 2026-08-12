@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p1",
+    "slug": "cafe-geisha-panama",
+    "name": "Café Geisha Panamá",
+    "description": "El grano que hace callar la mesa: tueste claro de Boquete con un perfil floral y notas a jazmín que se sienten antes de dar el primer sorbo. Edición limitada, lotes pequeños.",
+    "price": 18.5,
+    "category": "granos",
+    "image": "/products/cafe-geisha-panama.jpg",
+    "featured": true
+  },
+  {
+    "id": "p2",
+    "slug": "espresso-blend-casa",
+    "name": "Espresso Blend Casa",
+    "description": "Nuestra mezcla de todos los días: Brasil y Colombia en equilibrio perfecto, con chocolate y nuez que rinden igual en máquina que en moka. El espresso con el que abrimos la cafetería cada mañana.",
+    "price": 12.0,
+    "category": "granos",
+    "image": "/products/espresso-blend-casa.jpg",
+    "featured": true
+  },
+  {
+    "id": "p3",
+    "slug": "prensa-francesa-350ml",
+    "name": "Prensa Francesa 350ml",
+    "description": "Vidrio borosilicato resistente al choque térmico y filtro de acero inoxidable que deja pasar todo el cuerpo del café. La forma más honesta de preparar una taza sin electricidad ni papel.",
+    "price": 24.0,
+    "category": "equipo",
+    "image": "/products/prensa-francesa-350ml.jpg",
+    "featured": true
+  },
+  {
+    "id": "p4",
+    "slug": "cafe-honduras-marcala",
+    "name": "Café Honduras Marcala",
+    "description": "Cultivo de altura con tueste medio que revela caramelo y frutos rojos en cada taza. Un café con carácter propio, directo de productores que conocemos por nombre.",
+    "price": 15.0,
+    "category": "granos",
+    "image": "/products/cafe-honduras-marcala.jpg"
+  },
+  {
+    "id": "p5",
+    "slug": "molino-manual-ceramica",
+    "name": "Molino Manual de Cerámica",
+    "description": "Muelas de cerámica ajustables que van del espresso más fino al filtrado más grueso sin perder consistencia. Silencioso, portátil y pensado para quien muele su café justo antes de prepararlo.",
+    "price": 32.0,
+    "category": "equipo",
+    "image": "/products/molino-manual-ceramica.jpg"
+  },
+  {
+    "id": "p6",
+    "slug": "chai-latte-concentrado",
+    "name": "Chai Latte Concentrado",
+    "description": "Especias tostadas a mano —canela, cardamomo, jengibre— en un concentrado que se sirve en segundos. Solo mezcla con leche caliente o fría y listo, sin renunciar al sabor de receta artesanal.",
+    "price": 9.5,
+    "category": "bebidas",
+    "image": "/products/chai-latte-concentrado.jpg"
+  },
+  {
+    "id": "p7",
+    "slug": "set-3-tazas-ceramica",
+    "name": "Set de 3 Tazas de Cerámica",
+    "description": "Piezas hechas a mano por artesanos locales, cada una ligeramente distinta a la anterior. Esmalte mate en tonos tierra que combina con cualquier rincón de tu cocina.",
+    "price": 28.0,
+    "category": "equipo",
+    "image": "/products/set-3-tazas-ceramica.jpg"
+  }
+]

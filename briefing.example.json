@@ -1,0 +1,50 @@
+{
+  "name": "Aroma Cafetería",
+  "industry": "cafetería / venta de café especial",
+  "tone": "cálido, artesanal, cercano",
+  "colors": ["#5C4033", "#D8C3A5", "#EFE6DD"],
+  "products": [
+    {
+      "name": "Café Geisha Panamá",
+      "description": "Tueste claro, notas florales y a jazmín, origen Boquete",
+      "price": 18.5,
+      "category": "granos"
+    },
+    {
+      "name": "Espresso Blend Casa",
+      "description": "Mezcla balanceada de Brasil y Colombia, notas a chocolate y nuez",
+      "price": 12,
+      "category": "granos"
+    },
+    {
+      "name": "Prensa Francesa 350ml",
+      "description": "Vidrio borosilicato, filtro de acero inoxidable",
+      "price": 24,
+      "category": "equipo"
+    },
+    {
+      "name": "Café Honduras Marcala",
+      "description": "Tueste medio, notas a caramelo y frutos rojos, cultivo de altura",
+      "price": 15,
+      "category": "granos"
+    },
+    {
+      "name": "Molino Manual de Cerámica",
+      "description": "Muelas de cerámica ajustables, ideal para espresso y filtrado",
+      "price": 32,
+      "category": "equipo"
+    },
+    {
+      "name": "Chai Latte Concentrado",
+      "description": "Especias tostadas a mano, listo para mezclar con leche caliente o fría",
+      "price": 9.5,
+      "category": "bebidas"
+    },
+    {
+      "name": "Set de 3 Tazas de Cerámica",
+      "description": "Hechas a mano por artesanos locales, esmalte mate en tonos tierra",
+      "price": 28,
+      "category": "equipo"
+    }
+  ]
+}
