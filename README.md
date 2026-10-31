@@ -79,3 +79,7 @@ site/                     Sitio generado (no versionado)
 ## Stack
 
 `Claude Code` · `Subagentes` · `Skills` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+## Autor
+
+**Carlos Castro Reales** · [LinkedIn](https://www.linkedin.com/in/carlos-castro-reales-53448b213)
