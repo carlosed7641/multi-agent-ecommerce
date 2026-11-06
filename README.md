@@ -82,4 +82,4 @@ site/                     Sitio generado (no versionado)
 
 ## Autor
 
-**Carlos Castro Reales** · [LinkedIn](https://www.linkedin.com/in/carlos-castro-reales-53448b213)
+**Carlos Castro Reales** · [LinkedIn](https://www.linkedin.com/in/carlos-castro-reales)
